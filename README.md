@@ -1,6 +1,6 @@
 ### Ola, sou o Marcos.
 
-- 📖 Cursando o 2º Semestre de análise e desenvolvimento de sistemas na Universidade Unipaulistana.
+- 📖 Cursando o 3º Semestre de análise e desenvolvimento de sistemas na Universidade Unipaulistana.
 - 📫 Email para contato: marcossilvajr53@outlook.com
 - 💬 Sempre em busca de novos aprendizados e novas oportunidades.
 
